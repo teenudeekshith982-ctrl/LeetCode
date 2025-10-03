@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository is a collection of my LeetCode solutions, organized by topics such as Arrays, Binary Search, and Databases. I use this space to practice Data Structures and Algorithms (DSA), strengthen my problem-solving skills, and prepare for coding interviews at top tech companies. Each solution reflects my approach to writing clean, efficient, and optimized code, and the repository is regularly updated as I continue solving new problems.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
