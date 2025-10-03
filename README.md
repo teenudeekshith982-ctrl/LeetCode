@@ -6,6 +6,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -20,4 +21,8 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
