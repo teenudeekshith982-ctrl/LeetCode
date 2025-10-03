@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
