@@ -8,6 +8,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Binary Search
 |  |
 | ------- |
