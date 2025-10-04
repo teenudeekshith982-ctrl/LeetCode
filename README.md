@@ -26,4 +26,12 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
