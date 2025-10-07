@@ -8,6 +8,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Binary Search
@@ -37,6 +38,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | ------- |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
