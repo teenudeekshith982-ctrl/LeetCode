@@ -7,6 +7,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
+| [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
@@ -15,6 +16,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
@@ -36,6 +38,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
