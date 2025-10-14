@@ -33,11 +33,13 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
