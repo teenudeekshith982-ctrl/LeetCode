@@ -7,6 +7,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -40,6 +41,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
@@ -51,4 +53,8 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
