@@ -36,6 +36,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
