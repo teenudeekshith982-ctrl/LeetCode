@@ -9,6 +9,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
