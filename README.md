@@ -13,6 +13,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | [0747-min-cost-climbing-stairs](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,12 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
