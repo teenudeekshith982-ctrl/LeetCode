@@ -34,11 +34,13 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
+| [0424-longest-repeating-character-replacement](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
+| [0424-longest-repeating-character-replacement](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -65,6 +67,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
