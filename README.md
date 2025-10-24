@@ -48,6 +48,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
@@ -73,4 +74,12 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
