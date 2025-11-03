@@ -28,6 +28,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Hash Table
 |  |
