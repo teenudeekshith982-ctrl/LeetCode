@@ -87,11 +87,13 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -102,5 +104,14 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
