@@ -8,6 +8,7 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 | ------- |
 | [0041-first-missing-positive](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
+| [0200-number-of-islands](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0494-target-sum) |
@@ -86,18 +87,21 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -114,4 +118,8 @@ This repository is a collection of my LeetCode solutions, organized by topics su
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0743-network-delay-time) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/teenudeekshith982-ctrl/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
